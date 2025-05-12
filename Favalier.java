@@ -35,3 +35,5 @@ class Favalier extends Piece {
     }
 }
 
+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
+
